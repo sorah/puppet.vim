@@ -1,0 +1,8 @@
+This repository is extracted from puppetlabs/puppet.git's ext/vim directory,
+to make friendly for neobundle, vundle, and more related plugin managers.
+
+https://github.com/puppetlabs/puppet/tree/master/ext/vim
+
+## License
+
+See LICENSE file.
